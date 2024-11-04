@@ -1,39 +1,25 @@
 {
     "licenses": [
         {
-            "Email": "dr4ads@gmail.com",
-            "Password": "123456asdasd",
-            "License Key": "123X321",
+            "License Key": "ABC123DEF456",
+            "Email": "Dr4ads@gmail.com",
+            "Password": "securepassword",
             "Hardware ID": "0xd072a1e04558",
             "MAC Address": "d0:72:a1:e0:45:58",
             "License Date": {
-	         	"Day": "7",
-                "Start": "3-11-2024",
-                "End": "10-11-2024"	
+                "Start": "01-01-2024",
+                "End": "01-01-2025"
             }
         },
         {
-            "Email": "user@example.com",
-            "Password": "password123",
-            "License Key": "abcD1234",
-            "Hardware ID": "0xd072a1e04559",
-            "MAC Address": "d0:72:a1:e0:45:59",
+            "License Key": "XYZ789UVW123",
+            "Email": "anotheruser@example.com",
+            "Password": "anothersecurepassword",
+            "Hardware ID": "0x987654321",
+            "MAC Address": "01:2B:3C:4D:5E:6F",
             "License Date": {
-         		"Day": "7",
-                "Start": "3-11-2024",
-                "End": "10-11-2024"	
-            }
-        },
-        {
-            "Email": "test@example.com",
-            "Password": "testPassword",
-            "License Key": "xyz98765",
-            "Hardware ID": "0xd072a1e04560",
-            "MAC Address": "d0:72:a1:e0:45:60",
-            "License Date": {
-	         	"Day": "7",
-                "Start": "3-11-2024",
-                "End": "10-11-2024"	
+                "Start": "15-06-2024",
+                "End": "15-06-2025"
             }
         }
     ]
