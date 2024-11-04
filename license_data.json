@@ -1,26 +1,15 @@
 {
     "licenses": [
         {
-            "License Key": "ABC123DEF456",
-            "Email": "Dr4ads@gmail.com",
-            "Password": "securepassword",
+            "Email": "Dr4ads@Gmail.com",
+            "Password": "yourpassword",
             "Hardware ID": "0xd072a1e04558",
             "MAC Address": "d0:72:a1:e0:45:58",
             "License Date": {
                 "Start": "01-01-2024",
                 "End": "01-01-2025"
-            }
-        },
-        {
-            "License Key": "XYZ789UVW123",
-            "Email": "anotheruser@example.com",
-            "Password": "anothersecurepassword",
-            "Hardware ID": "0x987654321",
-            "MAC Address": "01:2B:3C:4D:5E:6F",
-            "License Date": {
-                "Start": "15-06-2024",
-                "End": "15-06-2025"
-            }
+            },
+            "License Key": "Dr4adssa"
         }
     ]
 }
