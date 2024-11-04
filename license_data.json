@@ -1,0 +1,40 @@
+{
+    "licenses": [
+        {
+            "Email": "dr4ads@gmail.com",
+            "Password": "123456asdasd",
+            "License Key": "123X321",
+            "Hardware ID": "0xd072a1e04558",
+            "MAC Address": "d0:72:a1:e0:45:58",
+            "License Date": {
+	         	"Day": "7",
+                "Start": "3-11-2024",
+                "End": "10-11-2024"	
+            }
+        },
+        {
+            "Email": "user@example.com",
+            "Password": "password123",
+            "License Key": "abcD1234",
+            "Hardware ID": "0xd072a1e04559",
+            "MAC Address": "d0:72:a1:e0:45:59",
+            "License Date": {
+         		"Day": "7",
+                "Start": "3-11-2024",
+                "End": "10-11-2024"	
+            }
+        },
+        {
+            "Email": "test@example.com",
+            "Password": "testPassword",
+            "License Key": "xyz98765",
+            "Hardware ID": "0xd072a1e04560",
+            "MAC Address": "d0:72:a1:e0:45:60",
+            "License Date": {
+	         	"Day": "7",
+                "Start": "3-11-2024",
+                "End": "10-11-2024"	
+            }
+        }
+    ]
+}
